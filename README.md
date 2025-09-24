@@ -1,4 +1,4 @@
-# Kontoverwaltungs Programm
+# Kontoverwaltungs Programm + GUI
 
 **Author**: Durlacher Lana <br>
 LBS Eibiswald / 2aAPC
@@ -34,6 +34,19 @@ git checkout origin/master
 <img width="451" height="473" alt="image" src="https://github.com/user-attachments/assets/895d1d76-bdf1-4b40-ad75-ccb6d7c9f6af" />  <img width="640" height="426" alt="image" src="https://github.com/user-attachments/assets/d40df7d8-f91d-4ecd-9e4a-f3b23b28dad2" />
 <br>
 <br>
+## GIU Screenshots
+
+<img width="1024" height="645" alt="image" src="https://github.com/user-attachments/assets/5a93b1c0-6302-4281-a41b-b49d05138c8f" />
+<br>
+<img width="1022" height="647" alt="image" src="https://github.com/user-attachments/assets/186ab786-bdd9-49cd-b346-c913eed358d2" />
+<br>
+<img width="1027" height="647" alt="image" src="https://github.com/user-attachments/assets/3eea587a-058d-478d-b727-1c3a04915b5f" />
+
+
+
+<br>
+<br>
+
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
