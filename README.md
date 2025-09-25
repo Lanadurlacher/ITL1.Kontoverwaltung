@@ -35,12 +35,29 @@ git checkout origin/master
 <br>
 <br>
 ## GIU Screenshots
+<img width="1099" height="640" alt="image" src="https://github.com/user-attachments/assets/761fa0b2-7648-4f4e-8799-7db6770d3569" />
+<br>
+<br>
 
-<img width="1024" height="645" alt="image" src="https://github.com/user-attachments/assets/5a93b1c0-6302-4281-a41b-b49d05138c8f" />
+### Konto Wurde angelegt
+<img width="1099" height="641" alt="image" src="https://github.com/user-attachments/assets/f57b4da9-a674-4101-a3d1-6c0f4e901d83" />
 <br>
-<img width="1022" height="647" alt="image" src="https://github.com/user-attachments/assets/186ab786-bdd9-49cd-b346-c913eed358d2" />
 <br>
-<img width="1027" height="647" alt="image" src="https://github.com/user-attachments/assets/3eea587a-058d-478d-b727-1c3a04915b5f" />
+
+### Überweisung zum Konto deiner Wahl
+<img width="1091" height="637" alt="image" src="https://github.com/user-attachments/assets/58f48f15-4bd9-4a5d-a4c5-bb96d3cb7510" />
+<br>
+<br>
+
+### Betrag auswählen
+<img width="1093" height="641" alt="image" src="https://github.com/user-attachments/assets/0fd8fa13-9251-4372-b9da-423c14422160" />
+<br>
+<br>
+
+### Wie man sieht, sind die 500 Euro aus dem Konto "Lana" weg
+<img width="1095" height="634" alt="image" src="https://github.com/user-attachments/assets/40bf401c-bdd4-43d0-9403-527c627a27e8" />
+
+
 
 
 
